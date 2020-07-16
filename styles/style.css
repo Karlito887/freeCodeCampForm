@@ -30,10 +30,6 @@ body {
   @media (min-width: 768px) {
     .container {
       max-width: 720px; } }
-  @media (min-width: 1300px) {
-    .container {
-      max-width: 960px;
-      font-size: 2rem; } }
   .container header {
     text-align: center; }
 
